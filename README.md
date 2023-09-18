@@ -2,12 +2,12 @@
 
 ***Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?***
 The user required an application that will be used to track items in a warehouse. They required the application to include the following:
-A database with at least two tables, one to store the inventory items and one to store user logins and passwords
-A screen for logging into the app. Note that this should also be used to create a login if the user has never logged in before.
-A screen, with a grid, that displays all items in the inventory
-A mechanism by which the user can add and remove items from inventory
-A mechanism by which the user can increase or decrease the number of a specific item in the inventory
-A mechanism by which the application will notify the user when the amount of any item in the inventory has been reduced to 0 (zero)
+A database with at least two tables (one to store the inventory items and one to store user logins and passwords),
+a screen for logging into the app (Note that this should also be used to create a login if the user has never logged in before.),
+a screen with a grid that displays all items in the inventory,
+a mechanism by which the user can add and remove items from inventory,
+a mechanism by which the user can increase or decrease the number of a specific item in the inventory,
+and a mechanism by which the application will notify the user when the amount of any item in the inventory has been reduced to 0 (zero).
 
 ***What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?***
 The user required a feature to support a user logging into the application. This required the need for a login/register screen so users could be authenticated and authorized. The screen met the user’s requirements by including the following:
