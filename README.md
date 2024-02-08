@@ -14,7 +14,7 @@ The user required a feature to support a user logging into the application. This
 Fields for the user to provide a username and password,
 the password element was configured in a way that obscures any text that is typed into the field, 
 a button for the user to submit their username and password,
-a button for the user to create a new login if it is their first time using the application.
+and a button for the user to create a new login if it is their first time using the application.
 
 The user also required a data display screen for showing all items being tracked in the application. This screen had to include:
 A grid for displaying data
