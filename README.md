@@ -11,10 +11,10 @@ and a mechanism by which the application will notify the user when the amount of
 
 ***What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?***
 The user required a feature to support a user logging into the application. This required the need for a login/register screen so users could be authenticated and authorized. The screen met the user’s requirements by including the following:
-Fields for the user to provide a username and password
-The password element was configured in a way that obscures any text that is typed into the field. 
-A button for the user to submit their username and password
-A button for the user to create a new login if it is their first time using the application.
+Fields for the user to provide a username and password,
+the password element was configured in a way that obscures any text that is typed into the field, 
+a button for the user to submit their username and password,
+a button for the user to create a new login if it is their first time using the application.
 
 The user also required a data display screen for showing all items being tracked in the application. This screen had to include:
 A grid for displaying data
